@@ -47,8 +47,7 @@ student-marks-predictor/
 │
 ├── src/
 │   ├── preprocess.py              # Data preprocessing
-│   ├── train_model.py             # Train Linear Regression model
-│   ├── evaluate.py                # Model evaluation metrics
+│   ├── train_model.py             # Train Linear Regression model and evaluation of model
 │   └── predict.py                 # Prediction function
 │
 ├── app/
